@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/stevensimba/stevensimba/main/simba-banner.png"/>
+<img src="https://raw.githubusercontent.com/stevensimba/stevensimba/main/simba-banner1.png"/>
  <hr></hr>
 <p align="left">
   <samp>
@@ -7,6 +7,6 @@
     🗼 Favorite Tech: JavaScript/React, Python, Go, Dart/Flutter ... <br>
     🔔	Email: stevensimba@gmail.com <br>
     🎺 Portfolio: https://stevensimba.github.io <br>
-    🎪 Twitter: https://twitter.com/stevensimba <br>
+    🎪 Twitter: https://twitter.com/steven_simba <br>
   </samp>
 </p>
