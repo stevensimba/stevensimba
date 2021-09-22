@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/stevensimba/stevensimba/main/banner-min.png"/>
+<img src="https://raw.githubusercontent.com/stevensimba/stevensimba/main/simba-banner.png"/>
  <hr></hr>
 <p align="left">
   <samp>
