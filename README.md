@@ -7,7 +7,8 @@
     🗼 Favorite Tech: JavaScript/React, Python, Go, Dart/Flutter ... <br>
     🐧 Machine Learning: https://zindi.africa/users/Steven_Simba/competitions  <br>
     🔔	Email: sigsimba@gmail.com <br>
-    🎺 Portfolio: https://stevensimba.github.io <br>
+    🎺 Blog: https://stevensimba.github.io <br>
     🎪 Twitter: https://twitter.com/steven_simba <br>
+    🔔	Email: sigsimba@gmail.com <br>
   </samp>
 </p>
