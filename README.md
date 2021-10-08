@@ -5,7 +5,7 @@
     Hi, I'm Steven! 👋 <br>
     🏰 Work: At the intersection of machine learning and software development  <br>
     🗼 Favorite Tech: JavaScript/React, Python, Go, Dart/Flutter ... <br>
-    🐧 Machine Learning: https://zindi.africa/users/Steven_Simba/competitions
+    🐧 Machine Learning: https://zindi.africa/users/Steven_Simba/competitions  <br>
     🔔	Email: sigsimba@gmail.com <br>
     🎺 Portfolio: https://stevensimba.github.io <br>
     🎪 Twitter: https://twitter.com/steven_simba <br>
